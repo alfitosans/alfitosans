@@ -1,4 +1,4 @@
-#:eyes: just noob programer
+*:eyes: just noob programer
 
 <!---
 alfitosans/alfitosans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
