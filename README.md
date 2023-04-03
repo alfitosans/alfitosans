@@ -24,4 +24,4 @@ In my free time, I enjoy exploring new programming languages and frameworks to e
 
 ## Contact 
 
-Feel free to reach out to me by email at [E-mail](alfitosantosa@gmail.com "Email Alfito"). or connect with me on LinkedIn at  [LinkedIn]([https://github.com/alfitosans/AlfitoLoopingBersamaMasTata/blob/master/nomerDua.html](https://www.linkedin.com/in/lorddsans/) "LinkedIn Alfito"). I would love to chat about any web development opportunities or collaborations you may have.
+Feel free to reach out to me by email at [E-mail](alfitosantosa@gmail.com "Email Alfito"). or connect with me on LinkedIn at  [LinkedIn](https://www.linkedin.com/in/lorddsans/ "LinkedIn Alfito"). I would love to chat about any web development opportunities or collaborations you may have.
