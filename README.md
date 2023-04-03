@@ -1,10 +1,10 @@
-Bio Junior Web Programmer
+## Junior Web Programmer
 
-Hello, my name is [name] and I am a junior web programmer. I am passionate about creating innovative solutions and improving user experiences through code. 
+Hello, my name is Alfito and I am a junior web programmer. I am passionate about creating innovative solutions and improving user experiences through code. 
 
 ## Education 
 
-I have a Bachelor's Degree in Computer Science from [university name] where I learned about programming languages such as Java, Python, and C++. I also learned about web development using HTML, CSS, JavaScript, and PHP. 
+I have a Bachelor's Degree in Computer Science from Gunadarma University where I learned about programming languages such as Java, Python, and C++. I also learned about web development using HTML, CSS, JavaScript, and PHP. 
 
 ## Skills 
 
