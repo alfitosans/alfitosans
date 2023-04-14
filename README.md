@@ -1,4 +1,6 @@
-## Junior Web Programmer Gadungan ![MuaKissGIF](https://user-images.githubusercontent.com/80642407/232056238-8f62d58e-6a9f-4b5e-ac35-4b3866c6c44a.gif)
+## Junior Web Programmer Gadungan 
+
+![MuaKissGIF](https://user-images.githubusercontent.com/80642407/232056238-8f62d58e-6a9f-4b5e-ac35-4b3866c6c44a.gif)
 
 ## Contact 
 
